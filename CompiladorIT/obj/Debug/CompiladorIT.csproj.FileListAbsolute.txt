@@ -1,0 +1,15 @@
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.csprojAssemblyReference.cache
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.compilador.resources
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.Properties.Resources.resources
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.csproj.GenerateResource.cache
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.csproj.CoreCompileInputs.cache
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\bin\Debug\CompiladorIT.exe.config
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\bin\Debug\CompiladorIT.exe
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\bin\Debug\CompiladorIT.pdb
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.exe
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.pdb
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\bin\Debug\CompiladorIT.exe.manifest
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\bin\Debug\CompiladorIT.application
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.exe.manifest
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.application
+C:\Users\jeury\source\repos\CompiladorIT\CompiladorIT\obj\Debug\CompiladorIT.TablaSimbolos.resources

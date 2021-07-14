@@ -1,0 +1,36 @@
+si( 20 > 18){
+salida("Hola Jeury");
+}entonces si{
+salida("Hola Profe");
+}
+
+inicio
+ visua “HOLA MUNDO “;
+final
+
+
+inicio
+ const
+ entero MAX=10;
+ cadena MENSAJE=”BIENVENIDOS AL SISTEMA”;
+ real PI=3.1416;
+ visua “el valor de pi es = “,PI;
+final 
+
+
+inicio
+ entero MAX=10;
+ cadena MENSAJE="BIENVENIDOS AL SISTEMA";
+ real PI=3.1416;
+ entero i,cont;
+ cadena s1,s2,s3;
+ real x,y,area,radio;
+ visua "teclea el valor de i : ";
+ leer i;
+ final
+
+inicio
+ var
+ entero i,cont;
+ cadena s1,s2,s3;
+ real x,y,area,radio; 
